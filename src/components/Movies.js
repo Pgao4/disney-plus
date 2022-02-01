@@ -7,28 +7,28 @@ function Movies() {
             <h4>Recommended for you</h4>
             <Content>
                 <Wrap>
-                <img src="https://tupian.meijumi.top/2021/09/The-Simpsons-Season-33_compressed.jpg" alt="Disney"/>
+                <img src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/87F1DCF36049558159913ADFD18A800DE1121771540033EC3A7651B8FE154CEB/scale?width=400&aspectRatio=1.78&format=jpeg" alt="Disney"/>
                 </Wrap>
                 <Wrap>
-                <img src="https://tupian.meijumi.top/2021/09/The-Simpsons-Season-33_compressed.jpg" alt="Disney"/>
+                <img src="https://pic1.zhimg.com/80/v2-186d364cd1d25235c0a0ea056c4739c0_720w.jpg" alt="Disney"/>
                 </Wrap>
                 <Wrap>
-                <img src="https://tupian.meijumi.top/2021/09/The-Simpsons-Season-33_compressed.jpg" alt="Disney"/>
+                <img src="https://pic1.zhimg.com/80/v2-186d364cd1d25235c0a0ea056c4739c0_720w.jpg" alt="Disney"/>
                 </Wrap>
                 <Wrap>
-                <img src="https://tupian.meijumi.top/2021/09/The-Simpsons-Season-33_compressed.jpg" alt="Disney"/>
+                <img src="https://pic1.zhimg.com/80/v2-186d364cd1d25235c0a0ea056c4739c0_720w.jpg" alt="Disney"/>
                 </Wrap>
                 <Wrap>
-                <img src="https://tupian.meijumi.top/2021/09/The-Simpsons-Season-33_compressed.jpg" alt="Disney"/>
+                <img src="https://pic1.zhimg.com/80/v2-186d364cd1d25235c0a0ea056c4739c0_720w.jpg" alt="Disney"/>
                 </Wrap>
                 <Wrap>
-                <img src="https://tupian.meijumi.top/2021/09/The-Simpsons-Season-33_compressed.jpg" alt="Disney"/>
+                <img src="https://pic1.zhimg.com/80/v2-186d364cd1d25235c0a0ea056c4739c0_720w.jpg" alt="Disney"/>
                 </Wrap>
                 <Wrap>
-                <img src="https://tupian.meijumi.top/2021/09/The-Simpsons-Season-33_compressed.jpg" alt="Disney"/>
+                <img src="https://pic1.zhimg.com/80/v2-186d364cd1d25235c0a0ea056c4739c0_720w.jpg" alt="Disney"/>
                 </Wrap>
                 <Wrap>
-                <img src="https://tupian.meijumi.top/2021/09/The-Simpsons-Season-33_compressed.jpg" alt="Disney"/>
+                <img src="https://pic1.zhimg.com/80/v2-186d364cd1d25235c0a0ea056c4739c0_720w.jpg" alt="Disney"/>
                 </Wrap>
             </Content>
         </Container>
