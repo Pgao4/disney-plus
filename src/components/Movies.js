@@ -13,7 +13,7 @@ function Movies() {
                 { movies &&
                     movies.map((movie)=>(
                         <Wrap key={movie.id}>
-                            <img src={movie.cardImg} />
+                            <img src={movie.cardImg} alt={movie.title}/>
                         </Wrap>
                     ))
                 }
