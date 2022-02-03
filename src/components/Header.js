@@ -28,7 +28,7 @@ function Header() {
                 navigate("/home")
             }
         })
-    }, []);
+    });
 
     const signIn = () =>{
         auth.signInWithPopup(provider)
