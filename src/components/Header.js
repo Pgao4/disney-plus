@@ -106,6 +106,7 @@ const Header = (props) => {
 };
 
 const Nav = styled.nav`
+  //position:fixed;
   top: 0;
   left: 0;
   right: 0;
@@ -186,9 +187,6 @@ const NavMenu = styled.div`
       }
     }
   }
-  /* @media (max-width: 768px) {
-    display: none;
-  } */
 `;
 
 const Login = styled.a`
@@ -240,6 +238,7 @@ const SignOut = styled.div`
   }
   &:hover {
     ${DropDown} {
+      position:fixed;
       opacity: 1;
       transition-duration: 1s;
     }
